@@ -339,6 +339,15 @@ button {
   border-radius: 0;
 }
 
+button2 {
+  background-color: #555555;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
 button:focus:not(:focus-visible) {
   outline: 0;
 }
